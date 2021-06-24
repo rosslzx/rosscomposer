@@ -1,0 +1,16 @@
+{
+    "name": "ross/rosscomposer",
+    "description": "test",
+    "type": "project",
+    "license": "apache2.0",
+    "authors": [
+        {
+            "name": "lzx",
+            "email": "1034913993@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "qiniu/php-sdk": "dev-master"
+    }
+}
