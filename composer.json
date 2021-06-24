@@ -1,6 +1,6 @@
 {
     "name": "rosslzx/rosscomposer",
-    "description": "ross test composer",
+    "description": "test",
     "type": "project",
     "require": {
         "qiniu/php-sdk": "7.3.*"
@@ -12,12 +12,5 @@
             "email": "1034913993@qq.com"
         }
     ],
-    "autoload": {
-        "psr-4": {
-            "app\\": "application"
-        },
-        "classmap":["plugins"]
-
-    },
-    "minimum-stability": "stable"
+    "minimum-stability": "dev"
 }
