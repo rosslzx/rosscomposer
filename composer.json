@@ -12,5 +12,12 @@
             "email": "1034913993@qq.com"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "app\\": "application"
+        },
+        "classmap":["plugins"]
+
+    },
     "minimum-stability": "dev"
 }
