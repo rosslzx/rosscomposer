@@ -1,7 +1,10 @@
 {
-    "name": "ross/rosscomposer",
-    "description": "test",
+    "name": "rosslzx/rosscomposer",
+    "description": "ross test composer",
     "type": "project",
+    "require": {
+        "qiniu/php-sdk": "7.3.*"
+    },
     "license": "apache2.0",
     "authors": [
         {
@@ -9,8 +12,5 @@
             "email": "1034913993@qq.com"
         }
     ],
-    "minimum-stability": "dev",
-    "require": {
-        "qiniu/php-sdk": "dev-master"
-    }
+    "minimum-stability": "dev"
 }
