@@ -5,7 +5,7 @@
     "require": {
         "qiniu/php-sdk": "7.3.*"
     },
-    "license": "apache2.0",
+    "license": "Apache-2.0",
     "authors": [
         {
             "name": "lzx",
