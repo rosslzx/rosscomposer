@@ -19,5 +19,5 @@
         "classmap":["plugins"]
 
     },
-    "minimum-stability": "dev"
+    "minimum-stability": "stable"
 }
